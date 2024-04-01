@@ -53,5 +53,7 @@ Contributions are welcome! If you have improvements or bug fixes, please open a 
 
 
 This `README.md` provides a concise overview of the script and how to use it. Adjust the content as necessary to fit the specifics of your script, especially if you add features or make significant changes.
+## Socials
+Youtube - @Tankpy-dh6zz
+Youtube Link - https://www.youtube.com/channel/UCNyxbSU2B8k5xj2Yu7vpytQ
 
-Thank you!
