@@ -27,7 +27,7 @@ Download the main.py script from this repository.
 ## Usage
 To run the script, navigate to the directory containing main.py and execute:
 
-python temp_email_monitor.py
+python main.py
 
 Follow the on-screen prompts to start monitoring a new temporary email address or to generate a new one after the monitoring period.
 
